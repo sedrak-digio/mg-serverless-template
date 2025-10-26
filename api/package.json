@@ -11,7 +11,8 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "@azure/cosmos": "^4.0.0"
+    "@azure/cosmos": "^4.0.0",
+    "@google/genai": "^1.27.0"
   },
   "devDependencies": {
     "@azure/functions": "^3.0.0",
